@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer Test</string>
+    <string name="notification_channel_name">Countdown Timer</string>
+    <string name="notification_channel_description">Shows the running countdown timer</string>
+    <string name="timer_finished_title">Timer finished</string>
+    <string name="action_stop">Stop</string>
+</resources>
